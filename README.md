@@ -1,8 +1,7 @@
-# Django - Filmová databáze
-## Školní příklad
+# Django - Výuková aplikace
 ### Instalace
 1. Klonování repozitáře
-- `git clone https://github.com/lucny/mat_filmy.git`
+- `git clone
 2. Přesun do adresáře webu
 - `python -m venv .venv`
 3. Vytvoření virtuálního prostředí do složky .venv
