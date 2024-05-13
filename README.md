@@ -1,7 +1,7 @@
 # Django - Výuková aplikace
 ### Instalace
 1. Klonování repozitáře
-- `git clone
+- `git clone`
 2. Přesun do adresáře webu
 - `python -m venv .venv`
 3. Vytvoření virtuálního prostředí do složky .venv
